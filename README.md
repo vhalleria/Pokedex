@@ -1,7 +1,5 @@
 # Pokedex
 
-![](https://i.imgur.com/xG74tOh.png)
-
 # Desafio Front-end - Módulo 2 - CUBOS
 
 Você acabou de ser contratado pela melhor empresa de tecnologia do mundo: a **CUBOS**.
